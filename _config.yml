@@ -4,10 +4,10 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            Fitri Haryati
 tagline:          'blog'
-description:      'My personal blog.'
-url:              http://camporez.github.io
+description:      'WELCOME.'
+url:              http://fitriharyati06.github.io
 baseurl:          
 commentsystem:    google
 disqus:           example
