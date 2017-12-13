@@ -13,7 +13,7 @@ commentsystem:    google
 disqus:           example
 
 author:
-  name:           Ian Brunelli
+  name:           fitri haryati
   url:            https://google.com/+IanCamporezBrunelli
 
 paginate:         5
@@ -24,20 +24,12 @@ cover:            /assets/images/cover.jpg
 
 social:
   - icon:         twitter
-    url:          https://uin-suska.ac.id
+    url:          https://twitter.com/fitri_min
     desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://github.com/fitriharyati06
     desc:         Fork me on github
-
-  - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
-    desc:         Add me on google+
-
-  - icon:         feed
-    url:          http://camporez.github.io/atom.xml
-    desc:         Subscribe to my feed
 
 menu:
   - title:        Home
