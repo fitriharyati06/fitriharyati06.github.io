@@ -5,10 +5,10 @@ permalink: about/
 ---
 
 <div class="message">
-  This page will be ready soon! Meanwhile, stay with this beautiful latin text below.
+  kenali lebih dekat ^^
 </div>
 
-Nama saya fitri haryati. lahir 21 tahun yang lalu. saya sekarang menjadi mahasiswa di salah satu universitas negeri di indonesia yaitu universitas islam negri sultan syarif kasim riau angkatan 2014. saya mengambil program S1 jurusan sistem informasi.
+Nama saya fitri haryati. lahir 21 tahun yang lalu. saya sekarang menjadi mahasiswa di salah satu universitas negeri di indonesia yaitu universitas islam negri sultan syarif kasim riau http://uin-suska.ac.id/ angkatan 2014 . saya mengambil program S1  fakultas sains dan teknologi dengan jurusan sistem informasi http://sif.uin-suska.ac.id/.
 
 penjelasan sistem informasi
 “Program Studi Sistem Informasi mengajarkan landasan ilmu pengetahuan dan penerapan Teknologi Informasi dalam suatu organisasi. Terkait hal tersebut, kurikulum Program Studi Sistem Informasi bersifat khas karena dibangun di atas 3 (tiga) bidang yaitu: komputer, manajemen dan bisnis.
