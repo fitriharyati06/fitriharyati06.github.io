@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello, Guys http://sif.uin-suska.ac.id/"
-quote: "penjelasan jurusan sistem informasi pada uinsuska"
+title: "Hello, Guys "
+quote: "penjelasan jurusan sistem informasi http://sif.uin-suska.ac.id/"
 image:
       url: /media/2014-02-27-hello-cosette/cover.jpg
 video: false
